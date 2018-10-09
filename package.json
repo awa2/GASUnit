@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js src",
+    "lint:fix": "eslint --fix --ext .js src",
     "login": "clasp login",
     "logout": "clasp logout",
     "pull": "clasp pull",

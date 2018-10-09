@@ -91,6 +91,9 @@ $ npm install
 # lint code by ESLint
 $ npm run lint
 
+# lint and fix code by ESLint
+$ npm run lint:fix
+
 # login to Google Drive
 $ npm run login
 
